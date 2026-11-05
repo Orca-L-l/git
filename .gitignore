@@ -1,0 +1,14 @@
+# 凭据，切勿提交
+.token
+.git-credentials
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 临时文件
+*.log
+*.tmp
