@@ -1,6 +1,7 @@
 # 凭据，切勿提交
 .token
 .git-credentials
+.ssh/
 
 # 系统与编辑器
 .DS_Store
